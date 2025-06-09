@@ -14,7 +14,7 @@ We're currently building a **landing page** that will be our central hub, think 
 
 **Catch us here:**
 
-  * **Landing Page (Coming Soon\!)**
+  * **Landing Page [Coming Soon\!](https://cumingsun.vercel.app/)**
   * **Instagram**: [@GadjahDuduk](https://www.instagram.com/ugd.winners) <br> *(Behind-the-scenes vibes from Gadjah Duduk\!)*
   * **GitHub**: [GadjahDuduk](https://github.com/gadjahduduk) <br> *(You're already here, but good to link\!)*
 
